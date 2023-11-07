@@ -1,2 +1,3 @@
-# cse360_helloworld
-cse360 Github tutorial
+This repository is to serve as CSE360 GitHub tutorial.
+
+This is a change reflecting a commit done by Brian Amen.
